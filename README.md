@@ -5,3 +5,6 @@
 
 * git branch 0.2
 * git checkout 0.2
+
+* git branch 0.2-2
+* git checkout 0.2-2
